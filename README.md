@@ -1,6 +1,6 @@
 # NMT-on-FOL-parsing
-x.txt -> input of training set
-y.txt -> label of training set
+x.txt -> input of training set\\
+y.txt -> label of training set\\
 xv.txt -> input of validation set
 yv.txt -> label of validation set
 xt.txt -> input of test set
