@@ -21,3 +21,5 @@ xvi.txt -> input of unseen rules validation set\
 yvi.txt -> label of unseen rules validation set\
 xti.txt -> input of unseen rules test set\
 yti.txt -> label of unseen rules test set\
+
+Upload the notebook and data to colab to run.
